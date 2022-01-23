@@ -56,6 +56,6 @@
     "cytoscape": "^3.2.22"
   },
   "dependencies": {
-    "dagre": "^0.8.5"
+    "dagre": "github:HEmile/dagre"
   }
 }
